@@ -1,5 +1,3 @@
-module github.com/varunbhayana/OTTCrawler
+module OTTCrawler
 
 go 1.14
-
-require github.com/adjust/rmq/v3 v3.0.0
